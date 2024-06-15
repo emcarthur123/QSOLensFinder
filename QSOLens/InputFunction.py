@@ -13,7 +13,7 @@ def predict(array, Z_find = None):
     array (np.ndarray): Input data array to be used for prediction.
     
     Returns:
-    np.ndarray: Predicted output from the model.
+    np.ndarray: Predicted output from the model
     """
     if Z_find == False:
         mod1 = network_classifier(array)
