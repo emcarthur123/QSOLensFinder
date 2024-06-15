@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+QSOLens/NetworkArchitecture.py
+QSOLens/__init__.py
+QSOLens/new_model_weights_3.h5
+QSOLens.egg-info/PKG-INFO
+QSOLens.egg-info/SOURCES.txt
+QSOLens.egg-info/dependency_links.txt
+QSOLens.egg-info/entry_points.txt
+QSOLens.egg-info/requires.txt
+QSOLens.egg-info/top_level.txt
